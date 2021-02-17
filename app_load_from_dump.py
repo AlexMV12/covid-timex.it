@@ -10,8 +10,8 @@ import dateparser
 from dash.dependencies import Input, Output
 from pandas import read_csv
 
-from timex.data_ingestion import add_diff_columns
-from timex.data_visualization.functions import create_timeseries_dash_children, line_plot_multiIndex
+from timexseries.data_ingestion import add_diff_columns
+from timexseries.data_visualization.functions import create_timeseries_dash_children, line_plot_multiIndex
 
 log = logging.getLogger(__name__)
 

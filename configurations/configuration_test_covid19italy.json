@@ -32,7 +32,7 @@
     "delta_training_percentage": 10,
     "prediction_lags": 10,
     "possible_transformations" : "none,log_modified",
-    "models": "fbprophet",
+    "models": "fbprophet,exponentialsmoothing",
     "main_accuracy_estimator": "mae"
   },
   "xcorr_parameters": {
@@ -43,7 +43,7 @@
   },
   "historical_prediction_parameters": {
     "initial_index": "2020-08-18",
-    "save_path": "historical_predictions_italy_covid_fbprophet.pkl"
+    "save_path": "historical_predictions_italy_covid.pkl"
   },
   "visualization_parameters": {
     "xcorr_graph_threshold": 0.8,

@@ -102,7 +102,7 @@ disclaimer = [html.Div([
 
         For suggestions and questions contact:
         - Prof. Manuel Roveri - manuel.roveri (at) polimi.it
-        - Ing. Alessandro Falcetta - alessandro.falcetta (at) mail.polimi.it
+        - Ing. Alessandro Falcetta - alessandro.falcetta (at) polimi.it
 
         *DISCLAIMER: The information on this site is not intended or implied to be a substitute for professional medical advice, diagnosis or treatment. Contents, including text, graphics, images and information, presented in or available on this web site are meant to help in advancing the understanding of the virus and informing the public.
          Information is subject to change without notice. You are encouraged to confirm any information obtained from or through this web site with other sources.*
